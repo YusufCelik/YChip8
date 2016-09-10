@@ -52,5 +52,5 @@ Keyboard
 
 Props to Matthew Mikolay and his [guideline](http://mattmik.com/files/chip8/mastering/chip8.html).
 
-Finally, a big thanks goes out to the moral and/or debuggin support of
+Finally, a big thanks goes out to the moral and/or debugging support of
 Vanja Popovic, Marco Westerhof, and Tiemen Glastra.
