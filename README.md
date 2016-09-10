@@ -12,6 +12,7 @@ Features:
 
 TODO list
 
+ * Sound implementation (basically a single beep)
  * Expanding upon existant documentation
  * Better implementation of unit tests
  * Quirks mode in order to support roms that have been badly coded
