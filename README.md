@@ -2,7 +2,7 @@
 
 ![Image of Breakout](https://github.com/YusufCelik/YChip8/raw/master/images/breakout.png)
 
-Being a 90's kid, I grew up with a lot of awesome consoles. With time these retro consoles were ported to the home computer. As a side project I wanted to dive into the world of emulators, i.e. creating code that pretends to be a certain hardware environment whereupon a piece of propriatary software ('rom') can run. As such, I created this Chip-8 interpreter/emulator that runs Chip-8 roms.
+Being a 90's kid, I grew up with a lot of awesome consoles. With time these retro consoles were ported to the home computer. As a side project I wanted to dive into the world of emulators, i.e. creating code that pretends to be a certain hardware environment whereupon a piece of proprietary software ('ROM') can run. As such, I created this Chip-8 interpreter/emulator that runs Chip-8 Roms.
 
 
 Features:
@@ -13,9 +13,9 @@ Features:
 TODO list
 
  * Sound implementation (basically a single beep)
- * Expanding upon existant documentation
+ * Expanding upon existent documentation
  * Better implementation of unit tests
- * Quirks mode in order to support roms that have been badly coded
+ * Quirks mode in order to support Roms that have been badly coded
 
 Installation requirements:
 
